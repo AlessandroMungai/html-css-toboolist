@@ -19,7 +19,7 @@ body{
 .container{
     width: 65%;
     margin: 0 auto;
-    margin-top: 50px;
+    margin-top: 40px;
     background-color: white;
     border-radius: 5px 5px 0 0;
 }
@@ -29,6 +29,7 @@ body{
     margin: 0 auto;
     margin-top: 2px;
     background-color: white;
+    margin-bottom: 10px;
     border-radius: 0 0 5px 5px;
 }
 
@@ -62,9 +63,7 @@ h1{
 }
 
 p{
-    display: inline-block;
-    
-    
+    display: inline-block;   
 }
 
 .add-task{
