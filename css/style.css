@@ -29,6 +29,7 @@ body{
     margin: 0 auto;
     margin-top: 2px;
     background-color: white;
+    border-radius: 0 0 5px 5px;
 }
 
 .complete-line{
@@ -153,6 +154,30 @@ h2{
     height: 20px;
     width: 60px;
     background-color: #F09C32;
+    color: white;
+    font-size: x-small;
+    display: inline-block;
+    text-align: center;
+    line-height: 20px;
+    border-radius: 10px;
+}
+
+.website{
+    height: 20px;
+    width: 60px;
+    background-color: #D863A1;
+    color: white;
+    font-size: x-small;
+    display: inline-block;
+    text-align: center;
+    line-height: 20px;
+    border-radius: 10px;
+}
+
+.sales{
+    height: 20px;
+    width: 60px;
+    background-color: #B0C926;
     color: white;
     font-size: x-small;
     display: inline-block;
