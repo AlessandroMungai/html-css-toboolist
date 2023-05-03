@@ -16,6 +16,14 @@ body{
     background-color: #F6F8F9;
 }
 
+.container{
+    width: 65%;
+    margin: 0 auto;
+    margin-top: 30px;
+    background-color: white;
+}
+
+
 /* Header */
 
 header{
@@ -32,3 +40,42 @@ h1{
     vertical-align: middle
 }
 
+/* Main */
+
+.bottom-add{
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-bottom: 15px;
+}
+
+p{
+    display: inline-block;
+    
+}
+
+.task{
+    height: 30px;
+    width: 80px;
+    background-color: #47ADF1;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 5px;
+    color: white;
+    line-height: 30px;
+}
+
+.section{
+    height: 30px;
+    width: 100px;
+    background-color: white;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 5px;
+    color: #afb1b4;
+    border: 1px solid gray;
+    line-height: 30px;
+}
+
+hr{
+    color: rgb(247, 247, 247);
+}
