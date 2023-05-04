@@ -51,7 +51,7 @@ header{
 
 h1{
     display: inline-block;
-    vertical-align: middle
+    vertical-align: middle;
 }
 
 /* Main */
@@ -67,26 +67,19 @@ p{
 }
 
 .add-task{
-    height: 30px;
-    width: 80px;
     background-color: #47ADF1;
-    text-align: center;
-    vertical-align: middle;
+    padding: 5px 5px;
     border-radius: 5px;
-    color: white;
-    line-height: 30px;
+    color: white; 
 }
 
 .add-section{
-    height: 30px;
-    width: 100px;
     background-color: white;
-    text-align: center;
-    vertical-align: middle;
+    padding: 5px 5px;
     border-radius: 5px;
     color: #afb1b4;
     border: 1px solid gray;
-    line-height: 30px;
+   
 }
 
 h2{
@@ -114,73 +107,56 @@ h2{
 }
 
 .editorial{
-    height: 20px;
-    width: 60px;
+   
     background-color: #399ddf;
     color: white;
     font-size: x-small;
     display: inline-block;
-    text-align: center;
-    line-height: 20px;
+    padding: 5px 10px;
     border-radius: 10px;
 }
 
 .q1-goals{
-    height: 20px;
-    width: 60px;
     background-color: #9C72E4;
     color: white;
     font-size: x-small;
     display: inline-block;
-    text-align: center;
-    line-height: 20px;
+    padding: 5px 10px;
     border-radius: 10px;
 }
 
 .recruting{
-    height: 20px;
-    width: 60px;
     background-color: #64C0A9;
     color: white;
     font-size: x-small;
     display: inline-block;
-    text-align: center;
-    line-height: 20px;
+    padding: 5px 10px;
     border-radius: 10px;
 }
 
 .mobile{
-    height: 20px;
-    width: 60px;
     background-color: #F09C32;
     color: white;
     font-size: x-small;
     display: inline-block;
-    text-align: center;
-    line-height: 20px;
     border-radius: 10px;
+    padding: 5px 10px;
 }
 
 .website{
-    height: 20px;
-    width: 60px;
     background-color: #D863A1;
     color: white;
     font-size: x-small;
     display: inline-block;
-    text-align: center;
-    line-height: 20px;
     border-radius: 10px;
+    padding: 5px 10px;
 }
 
 .sales{
-    height: 20px;
-    width: 60px;
     background-color: #B0C926;
     color: white;
     font-size: x-small;
     display: inline-block;
-    text-align: center;
-    line-height: 20px;
     border-radius: 10px;
+    padding: 5px 10px;
 }
